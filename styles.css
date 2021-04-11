@@ -1,0 +1,25 @@
+*{
+  align-items: center;
+}
+body{
+  font-family: 'Delius', cursive;
+}
+.background {
+  width: 1300px;
+  height: 800px;
+  background: url("fondo1.jpg");
+  background-repeat: no-repeat;
+}
+.profile{
+  width:250px;
+  height:250px;
+  border-radius:300px;
+  display:block;
+  margin:auto;
+}
+h2, h4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFF;
+}
